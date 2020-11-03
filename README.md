@@ -5,10 +5,10 @@ I got all API from online by inspecting the orginal website. .
 
 ## some vidoes
 <!-- record_1 -->
-![original Design](https://github.com/ahmedeidd/shopLovers/blob/master/screenshots/record_1.gif "Design")
+![original Design](https://github.com/ahmedeidd/ecommerce_app_api-/blob/main/screenshots/record_1.gif "Design")
 
 <!-- record_2 -->
-![original Design](https://github.com/ahmedeidd/shopLovers/blob/master/screenshots/record_2.gif "Design")
+![original Design](https://github.com/ahmedeidd/ecommerce_app_api-/blob/main/screenshots/record_2.gif "Design")
 
 ## Screenshots
 
